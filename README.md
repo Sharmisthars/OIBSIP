@@ -1,4 +1,4 @@
-# OIBSIP
+# OIBSIPJAVAINTERN
 This respiratory is created to do the projects which will be done for Oasis Infobyte.  
 
 Task 1: Online Reservation System
