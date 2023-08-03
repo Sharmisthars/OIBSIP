@@ -1,8 +1,8 @@
-# OIBSIPJAVAINTERN
+# OIBSIP_JAVA_INTERN
 This respiratory is created to do the projects which will be done for Oasis Infobyte.  
 
 Task 1: Online Reservation System
-Explanation of the code furnished below:
+------- Explanation of the code furnished below:
 1. User Class: Represents a user with a username and password. It has methods to authenticate the user's credentials.
 2. OnReserveSys Class:
 It has a main method where the program execution starts.
