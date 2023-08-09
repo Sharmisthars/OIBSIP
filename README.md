@@ -21,8 +21,7 @@ The showCancellationForm(Scanner scanner) method allows the user to cancel a res
 
 
 
-
-Task 1: Online Reservation System
+Task 2: Online MCQ Examination System
 ------- Explanation of the code furnished below:
 1. Class Definition: The Onlineexam class is defined, encapsulating the entire online exam system.
 2. Instance Variables: The class includes various instance variables to store user data and exam-related information, including the username, password, login status (isLoggedIn), remaining exam time (timeRemaining), number of questions (questionCount), user answers (userAnswers), correct answers (correctAnswers), and a Timer instance (timer).
