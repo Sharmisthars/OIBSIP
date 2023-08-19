@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class OIBSIP_2 {
+public class OIBSIP_4 {
     private String username;
     private String password;
     private boolean isLoggedIn;
