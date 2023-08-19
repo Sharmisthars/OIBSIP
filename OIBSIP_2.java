@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Onlineexam {
+public class OIBSIP_2 {
     private String username;
     private String password;
     private boolean isLoggedIn;
