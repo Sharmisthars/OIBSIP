@@ -20,7 +20,7 @@ class User {
     }
 }
 
-public class OnReserveSys {
+public class OIBSIP_1 {
     private static User currentUser;
     private static String[][] reservations = new String[10][8];
     // Increased the column size for storing classType and seatNumber
